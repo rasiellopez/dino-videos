@@ -1,0 +1,149 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,3,5,40,40,0,1
+Style: Big,DejaVu Sans,92,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,7,4,5,40,40,0,1
+Style: Brand,DejaVu Sans,38,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,3,2,5,20,20,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.30,0:00:00.66,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THIS{\c&HFFFFFF&} T-REX IS
+Dialogue: 1,0:00:00.66,0:00:01.03,Cap,,0,0,0,,{\pos(540,1330)}THIS {\c&H00FFFF&}T-REX{\c&HFFFFFF&} IS
+Dialogue: 1,0:00:01.03,0:00:01.32,Cap,,0,0,0,,{\pos(540,1330)}THIS T-REX {\c&H00FFFF&}IS{\c&HFFFFFF&}
+Dialogue: 1,0:00:01.27,0:00:01.51,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}AS{\c&HFFFFFF&} LONG AS
+Dialogue: 1,0:00:01.51,0:00:01.88,Cap,,0,0,0,,{\pos(540,1330)}AS {\c&H00FFFF&}LONG{\c&HFFFFFF&} AS
+Dialogue: 1,0:00:01.88,0:00:02.17,Cap,,0,0,0,,{\pos(540,1330)}AS LONG {\c&H00FFFF&}AS{\c&HFFFFFF&}
+Dialogue: 1,0:00:02.12,0:00:02.30,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}A{\c&HFFFFFF&} SCHOOL BUS.
+Dialogue: 1,0:00:02.30,0:00:02.78,Cap,,0,0,0,,{\pos(540,1330)}A {\c&H00FFFF&}SCHOOL{\c&HFFFFFF&} BUS.
+Dialogue: 1,0:00:02.78,0:00:03.14,Cap,,0,0,0,,{\pos(540,1330)}A SCHOOL {\c&H00FFFF&}BUS.{\c&HFFFFFF&}
+Dialogue: 1,0:00:03.09,0:00:03.51,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}FORTY{\c&HFFFFFF&} FEET,
+Dialogue: 1,0:00:03.51,0:00:03.92,Cap,,0,0,0,,{\pos(540,1330)}FORTY {\c&H00FFFF&}FEET,{\c&HFFFFFF&}
+Dialogue: 1,0:00:03.87,0:00:04.24,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}FROM{\c&HFFFFFF&} NOSE TO
+Dialogue: 1,0:00:04.24,0:00:04.60,Cap,,0,0,0,,{\pos(540,1330)}FROM {\c&H00FFFF&}NOSE{\c&HFFFFFF&} TO
+Dialogue: 1,0:00:04.60,0:00:04.89,Cap,,0,0,0,,{\pos(540,1330)}FROM NOSE {\c&H00FFFF&}TO{\c&HFFFFFF&}
+Dialogue: 1,0:00:04.84,0:00:05.26,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}TAIL!{\c&HFFFFFF&}
+Dialogue: 1,0:00:06.11,0:00:06.45,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}AND{\c&HFFFFFF&} JUST ONE
+Dialogue: 1,0:00:06.45,0:00:06.87,Cap,,0,0,0,,{\pos(540,1330)}AND {\c&H00FFFF&}JUST{\c&HFFFFFF&} ONE
+Dialogue: 1,0:00:06.87,0:00:07.26,Cap,,0,0,0,,{\pos(540,1330)}AND JUST {\c&H00FFFF&}ONE{\c&HFFFFFF&}
+Dialogue: 1,0:00:07.21,0:00:07.74,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}TOOTH?{\c&HFFFFFF&}
+Dialogue: 1,0:00:07.69,0:00:07.97,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}AS{\c&HFFFFFF&} BIG AS
+Dialogue: 1,0:00:07.97,0:00:08.31,Cap,,0,0,0,,{\pos(540,1330)}AS {\c&H00FFFF&}BIG{\c&HFFFFFF&} AS
+Dialogue: 1,0:00:08.31,0:00:08.64,Cap,,0,0,0,,{\pos(540,1330)}AS BIG {\c&H00FFFF&}AS{\c&HFFFFFF&}
+Dialogue: 1,0:00:08.59,0:00:08.80,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}A{\c&HFFFFFF&} BANANA.
+Dialogue: 1,0:00:08.80,0:00:09.40,Cap,,0,0,0,,{\pos(540,1330)}A {\c&H00FFFF&}BANANA.{\c&HFFFFFF&}
+Dialogue: 1,0:00:10.05,0:00:10.42,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}MEET{\c&HFFFFFF&} TYRANNOSAURUS
+Dialogue: 1,0:00:10.42,0:00:11.41,Cap,,0,0,0,,{\pos(540,1330)}MEET {\c&H00FFFF&}TYRANNOSAURUS{\c&HFFFFFF&}
+Dialogue: 1,0:00:11.36,0:00:11.73,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}REX,{\c&HFFFFFF&}
+Dialogue: 1,0:00:11.68,0:00:11.99,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THE{\c&HFFFFFF&} KING OF
+Dialogue: 1,0:00:11.99,0:00:12.37,Cap,,0,0,0,,{\pos(540,1330)}THE {\c&H00FFFF&}KING{\c&HFFFFFF&} OF
+Dialogue: 1,0:00:12.37,0:00:12.67,Cap,,0,0,0,,{\pos(540,1330)}THE KING {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 1,0:00:12.62,0:00:12.93,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THE{\c&HFFFFFF&} TYRANT LIZARDS.
+Dialogue: 1,0:00:12.93,0:00:13.43,Cap,,0,0,0,,{\pos(540,1330)}THE {\c&H00FFFF&}TYRANT{\c&HFFFFFF&} LIZARDS.
+Dialogue: 1,0:00:13.43,0:00:14.05,Cap,,0,0,0,,{\pos(540,1330)}THE TYRANT {\c&H00FFFF&}LIZARDS.{\c&HFFFFFF&}
+Dialogue: 1,0:00:14.90,0:00:15.12,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}IT{\c&HFFFFFF&} WEIGHED MORE
+Dialogue: 1,0:00:15.12,0:00:15.61,Cap,,0,0,0,,{\pos(540,1330)}IT {\c&H00FFFF&}WEIGHED{\c&HFFFFFF&} MORE
+Dialogue: 1,0:00:15.61,0:00:16.00,Cap,,0,0,0,,{\pos(540,1330)}IT WEIGHED {\c&H00FFFF&}MORE{\c&HFFFFFF&}
+Dialogue: 1,0:00:15.95,0:00:16.28,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THAN{\c&HFFFFFF&} AN ELEPHANT,
+Dialogue: 1,0:00:16.28,0:00:16.50,Cap,,0,0,0,,{\pos(540,1330)}THAN {\c&H00FFFF&}AN{\c&HFFFFFF&} ELEPHANT,
+Dialogue: 1,0:00:16.50,0:00:17.10,Cap,,0,0,0,,{\pos(540,1330)}THAN AN {\c&H00FFFF&}ELEPHANT,{\c&HFFFFFF&}
+Dialogue: 1,0:00:17.05,0:00:17.33,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}AND{\c&HFFFFFF&} IT HUNTED
+Dialogue: 1,0:00:17.33,0:00:17.55,Cap,,0,0,0,,{\pos(540,1330)}AND {\c&H00FFFF&}IT{\c&HFFFFFF&} HUNTED
+Dialogue: 1,0:00:17.55,0:00:18.04,Cap,,0,0,0,,{\pos(540,1330)}AND IT {\c&H00FFFF&}HUNTED{\c&HFFFFFF&}
+Dialogue: 1,0:00:17.99,0:00:18.48,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}GIANTS,{\c&HFFFFFF&}
+Dialogue: 1,0:00:18.43,0:00:18.98,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}SIXTY-SIX{\c&HFFFFFF&} MILLION
+Dialogue: 1,0:00:18.98,0:00:19.53,Cap,,0,0,0,,{\pos(540,1330)}SIXTY-SIX {\c&H00FFFF&}MILLION{\c&HFFFFFF&}
+Dialogue: 1,0:00:19.48,0:00:19.87,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}YEARS{\c&HFFFFFF&} AGO.
+Dialogue: 1,0:00:19.87,0:00:20.19,Cap,,0,0,0,,{\pos(540,1330)}YEARS {\c&H00FFFF&}AGO.{\c&HFFFFFF&}
+Dialogue: 1,0:00:21.04,0:00:21.31,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}ITS{\c&HFFFFFF&} SECRET WEAPON
+Dialogue: 1,0:00:21.31,0:00:21.74,Cap,,0,0,0,,{\pos(540,1330)}ITS {\c&H00FFFF&}SECRET{\c&HFFFFFF&} WEAPON
+Dialogue: 1,0:00:21.74,0:00:22.22,Cap,,0,0,0,,{\pos(540,1330)}ITS SECRET {\c&H00FFFF&}WEAPON{\c&HFFFFFF&}
+Dialogue: 1,0:00:22.17,0:00:22.44,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}WAS{\c&HFFFFFF&} ITS NOSE.
+Dialogue: 1,0:00:22.44,0:00:22.71,Cap,,0,0,0,,{\pos(540,1330)}WAS {\c&H00FFFF&}ITS{\c&HFFFFFF&} NOSE.
+Dialogue: 1,0:00:22.71,0:00:23.09,Cap,,0,0,0,,{\pos(540,1330)}WAS ITS {\c&H00FFFF&}NOSE.{\c&HFFFFFF&}
+Dialogue: 1,0:00:23.04,0:00:23.20,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}A{\c&HFFFFFF&} HUGE PART
+Dialogue: 1,0:00:23.20,0:00:23.52,Cap,,0,0,0,,{\pos(540,1330)}A {\c&H00FFFF&}HUGE{\c&HFFFFFF&} PART
+Dialogue: 1,0:00:23.52,0:00:23.89,Cap,,0,0,0,,{\pos(540,1330)}A HUGE {\c&H00FFFF&}PART{\c&HFFFFFF&}
+Dialogue: 1,0:00:23.84,0:00:24.06,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}OF{\c&HFFFFFF&} ITS BRAIN
+Dialogue: 1,0:00:24.06,0:00:24.33,Cap,,0,0,0,,{\pos(540,1330)}OF {\c&H00FFFF&}ITS{\c&HFFFFFF&} BRAIN
+Dialogue: 1,0:00:24.33,0:00:24.75,Cap,,0,0,0,,{\pos(540,1330)}OF ITS {\c&H00FFFF&}BRAIN{\c&HFFFFFF&}
+Dialogue: 1,0:00:24.70,0:00:24.97,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}WAS{\c&HFFFFFF&} MADE FOR
+Dialogue: 1,0:00:24.97,0:00:25.30,Cap,,0,0,0,,{\pos(540,1330)}WAS {\c&H00FFFF&}MADE{\c&HFFFFFF&} FOR
+Dialogue: 1,0:00:25.30,0:00:25.62,Cap,,0,0,0,,{\pos(540,1330)}WAS MADE {\c&H00FFFF&}FOR{\c&HFFFFFF&}
+Dialogue: 1,0:00:25.57,0:00:26.15,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}SMELLING,{\c&HFFFFFF&}
+Dialogue: 1,0:00:26.10,0:00:26.32,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}SO{\c&HFFFFFF&} IT COULD
+Dialogue: 1,0:00:26.32,0:00:26.53,Cap,,0,0,0,,{\pos(540,1330)}SO {\c&H00FFFF&}IT{\c&HFFFFFF&} COULD
+Dialogue: 1,0:00:26.53,0:00:26.96,Cap,,0,0,0,,{\pos(540,1330)}SO IT {\c&H00FFFF&}COULD{\c&HFFFFFF&}
+Dialogue: 1,0:00:26.91,0:00:27.29,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}SNIFF{\c&HFFFFFF&} OUT DINNER
+Dialogue: 1,0:00:27.29,0:00:27.56,Cap,,0,0,0,,{\pos(540,1330)}SNIFF {\c&H00FFFF&}OUT{\c&HFFFFFF&} DINNER
+Dialogue: 1,0:00:27.56,0:00:28.04,Cap,,0,0,0,,{\pos(540,1330)}SNIFF OUT {\c&H00FFFF&}DINNER{\c&HFFFFFF&}
+Dialogue: 1,0:00:27.99,0:00:28.31,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}FROM{\c&HFFFFFF&} FAR,
+Dialogue: 1,0:00:28.31,0:00:28.63,Cap,,0,0,0,,{\pos(540,1330)}FROM {\c&H00FFFF&}FAR,{\c&HFFFFFF&}
+Dialogue: 1,0:00:28.58,0:00:28.85,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}FAR{\c&HFFFFFF&} AWAY.
+Dialogue: 1,0:00:28.85,0:00:29.22,Cap,,0,0,0,,{\pos(540,1330)}FAR {\c&H00FFFF&}AWAY.{\c&HFFFFFF&}
+Dialogue: 1,0:00:30.07,0:00:30.47,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THEN...{\c&HFFFFFF&}
+Dialogue: 1,0:00:30.42,0:00:30.87,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}CHOMP!{\c&HFFFFFF&}
+Dialogue: 1,0:00:30.82,0:00:31.17,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}T-REX{\c&HFFFFFF&} HAD THE
+Dialogue: 1,0:00:31.17,0:00:31.46,Cap,,0,0,0,,{\pos(540,1330)}T-REX {\c&H00FFFF&}HAD{\c&HFFFFFF&} THE
+Dialogue: 1,0:00:31.46,0:00:31.80,Cap,,0,0,0,,{\pos(540,1330)}T-REX HAD {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 1,0:00:31.75,0:00:32.39,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}STRONGEST{\c&HFFFFFF&} BITE OF
+Dialogue: 1,0:00:32.39,0:00:32.73,Cap,,0,0,0,,{\pos(540,1330)}STRONGEST {\c&H00FFFF&}BITE{\c&HFFFFFF&} OF
+Dialogue: 1,0:00:32.73,0:00:33.02,Cap,,0,0,0,,{\pos(540,1330)}STRONGEST BITE {\c&H00FFFF&}OF{\c&HFFFFFF&}
+Dialogue: 1,0:00:32.97,0:00:33.26,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}ANY{\c&HFFFFFF&} LAND ANIMAL
+Dialogue: 1,0:00:33.26,0:00:33.60,Cap,,0,0,0,,{\pos(540,1330)}ANY {\c&H00FFFF&}LAND{\c&HFFFFFF&} ANIMAL
+Dialogue: 1,0:00:33.60,0:00:34.12,Cap,,0,0,0,,{\pos(540,1330)}ANY LAND {\c&H00FFFF&}ANIMAL{\c&HFFFFFF&}
+Dialogue: 1,0:00:34.07,0:00:34.46,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}EVER.{\c&HFFFFFF&}
+Dialogue: 1,0:00:34.41,0:00:34.88,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}STRONG{\c&HFFFFFF&} ENOUGH TO
+Dialogue: 1,0:00:34.88,0:00:35.34,Cap,,0,0,0,,{\pos(540,1330)}STRONG {\c&H00FFFF&}ENOUGH{\c&HFFFFFF&} TO
+Dialogue: 1,0:00:35.34,0:00:35.62,Cap,,0,0,0,,{\pos(540,1330)}STRONG ENOUGH {\c&H00FFFF&}TO{\c&HFFFFFF&}
+Dialogue: 1,0:00:35.57,0:00:35.98,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}CRUSH{\c&HFFFFFF&} BONE.
+Dialogue: 1,0:00:35.98,0:00:36.37,Cap,,0,0,0,,{\pos(540,1330)}CRUSH {\c&H00FFFF&}BONE.{\c&HFFFFFF&}
+Dialogue: 1,0:00:37.32,0:00:37.62,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}AND{\c&HFFFFFF&} HERE'S THE
+Dialogue: 1,0:00:37.62,0:00:38.04,Cap,,0,0,0,,{\pos(540,1330)}AND {\c&H00FFFF&}HERE'S{\c&HFFFFFF&} THE
+Dialogue: 1,0:00:38.04,0:00:38.39,Cap,,0,0,0,,{\pos(540,1330)}AND HERE'S {\c&H00FFFF&}THE{\c&HFFFFFF&}
+Dialogue: 1,0:00:38.34,0:00:38.94,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}CRAZIEST{\c&HFFFFFF&} PART.
+Dialogue: 1,0:00:38.94,0:00:39.35,Cap,,0,0,0,,{\pos(540,1330)}CRAZIEST {\c&H00FFFF&}PART.{\c&HFFFFFF&}
+Dialogue: 1,0:00:39.30,0:00:40.08,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}STEGOSAURUS{\c&HFFFFFF&} LIVED
+Dialogue: 1,0:00:40.08,0:00:40.54,Cap,,0,0,0,,{\pos(540,1330)}STEGOSAURUS {\c&H00FFFF&}LIVED{\c&HFFFFFF&}
+Dialogue: 1,0:00:40.49,0:00:40.73,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}SO{\c&HFFFFFF&} LONG BEFORE
+Dialogue: 1,0:00:40.73,0:00:41.09,Cap,,0,0,0,,{\pos(540,1330)}SO {\c&H00FFFF&}LONG{\c&HFFFFFF&} BEFORE
+Dialogue: 1,0:00:41.09,0:00:41.62,Cap,,0,0,0,,{\pos(540,1330)}SO LONG {\c&H00FFFF&}BEFORE{\c&HFFFFFF&}
+Dialogue: 1,0:00:41.57,0:00:41.98,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}T-REX,{\c&HFFFFFF&}
+Dialogue: 1,0:00:41.93,0:00:42.29,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THAT{\c&HFFFFFF&} T-REX LIVED
+Dialogue: 1,0:00:42.29,0:00:42.65,Cap,,0,0,0,,{\pos(540,1330)}THAT {\c&H00FFFF&}T-REX{\c&HFFFFFF&} LIVED
+Dialogue: 1,0:00:42.65,0:00:43.12,Cap,,0,0,0,,{\pos(540,1330)}THAT T-REX {\c&H00FFFF&}LIVED{\c&HFFFFFF&}
+Dialogue: 1,0:00:43.07,0:00:43.55,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}CLOSER{\c&HFFFFFF&} IN TIME
+Dialogue: 1,0:00:43.55,0:00:43.79,Cap,,0,0,0,,{\pos(540,1330)}CLOSER {\c&H00FFFF&}IN{\c&HFFFFFF&} TIME
+Dialogue: 1,0:00:43.79,0:00:44.19,Cap,,0,0,0,,{\pos(540,1330)}CLOSER IN {\c&H00FFFF&}TIME{\c&HFFFFFF&}
+Dialogue: 1,0:00:44.14,0:00:44.38,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}TO{\c&HFFFFFF&} YOU!
+Dialogue: 1,0:00:44.38,0:00:44.73,Cap,,0,0,0,,{\pos(540,1330)}TO {\c&H00FFFF&}YOU!{\c&HFFFFFF&}
+Dialogue: 1,0:00:45.68,0:00:46.12,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}TIKO{\c&HFFFFFF&} IS VERY
+Dialogue: 1,0:00:46.12,0:00:46.41,Cap,,0,0,0,,{\pos(540,1330)}TIKO {\c&H00FFFF&}IS{\c&HFFFFFF&} VERY
+Dialogue: 1,0:00:46.41,0:00:46.89,Cap,,0,0,0,,{\pos(540,1330)}TIKO IS {\c&H00FFFF&}VERY{\c&HFFFFFF&}
+Dialogue: 1,0:00:46.84,0:00:47.35,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}PROUD{\c&HFFFFFF&} OF HIS
+Dialogue: 1,0:00:47.35,0:00:47.64,Cap,,0,0,0,,{\pos(540,1330)}PROUD {\c&H00FFFF&}OF{\c&HFFFFFF&} HIS
+Dialogue: 1,0:00:47.64,0:00:48.06,Cap,,0,0,0,,{\pos(540,1330)}PROUD OF {\c&H00FFFF&}HIS{\c&HFFFFFF&}
+Dialogue: 1,0:00:48.01,0:00:48.52,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}GIANT{\c&HFFFFFF&} FAMILY.
+Dialogue: 1,0:00:48.52,0:00:49.15,Cap,,0,0,0,,{\pos(540,1330)}GIANT {\c&H00FFFF&}FAMILY.{\c&HFFFFFF&}
+Dialogue: 1,0:00:49.90,0:00:50.18,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}SO,{\c&HFFFFFF&}
+Dialogue: 1,0:00:50.13,0:00:50.53,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}WHICH{\c&HFFFFFF&} DINOSAUR SHOULD
+Dialogue: 1,0:00:50.53,0:00:51.11,Cap,,0,0,0,,{\pos(540,1330)}WHICH {\c&H00FFFF&}DINOSAUR{\c&HFFFFFF&} SHOULD
+Dialogue: 1,0:00:51.11,0:00:51.62,Cap,,0,0,0,,{\pos(540,1330)}WHICH DINOSAUR {\c&H00FFFF&}SHOULD{\c&HFFFFFF&}
+Dialogue: 1,0:00:51.57,0:00:51.80,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}WE{\c&HFFFFFF&} EXPLORE NEXT?
+Dialogue: 1,0:00:51.80,0:00:52.32,Cap,,0,0,0,,{\pos(540,1330)}WE {\c&H00FFFF&}EXPLORE{\c&HFFFFFF&} NEXT?
+Dialogue: 1,0:00:52.32,0:00:52.71,Cap,,0,0,0,,{\pos(540,1330)}WE EXPLORE {\c&H00FFFF&}NEXT?{\c&HFFFFFF&}
+Dialogue: 1,0:00:52.66,0:00:53.01,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}TELL{\c&HFFFFFF&} US IN
+Dialogue: 1,0:00:53.01,0:00:53.24,Cap,,0,0,0,,{\pos(540,1330)}TELL {\c&H00FFFF&}US{\c&HFFFFFF&} IN
+Dialogue: 1,0:00:53.24,0:00:53.52,Cap,,0,0,0,,{\pos(540,1330)}TELL US {\c&H00FFFF&}IN{\c&HFFFFFF&}
+Dialogue: 1,0:00:53.47,0:00:53.76,Cap,,0,0,0,,{\pos(540,1330)}{\c&H00FFFF&}THE{\c&HFFFFFF&} COMMENTS!
+Dialogue: 1,0:00:53.76,0:00:54.38,Cap,,0,0,0,,{\pos(540,1330)}THE {\c&H00FFFF&}COMMENTS!{\c&HFFFFFF&}
+Dialogue: 2,0:00:00.20,0:00:05.81,Big,,0,0,0,,{\pos(540,330)\fs92\c&HFFFFFF&\fad(200,200)\t(0,250,\fscx112\fscy112)\t(250,450,\fscx100\fscy100)}T-REX vs\NSCHOOL BUS
+Dialogue: 2,0:00:06.86,0:00:09.80,Big,,0,0,0,,{\pos(540,330)\fs84\c&H00E5FF&\fad(200,200)\t(0,250,\fscx112\fscy112)\t(250,450,\fscx100\fscy100)}1 TOOTH = 1 BANANA
+Dialogue: 2,0:00:37.27,0:00:41.07,Big,,0,0,0,,{\pos(540,330)\fs72\c&HFFFFFF&\fad(200,200)\t(0,250,\fscx112\fscy112)\t(250,450,\fscx100\fscy100)}STEGOSAURUS → T-REX\N80 MILLION YEARS
+Dialogue: 2,0:00:41.17,0:00:45.38,Big,,0,0,0,,{\pos(540,330)\fs80\c&H00E5FF&\fad(200,200)\t(0,250,\fscx112\fscy112)\t(250,450,\fscx100\fscy100)}T-REX → YOU\N66 MILLION YEARS
+Dialogue: 2,0:00:46.03,0:00:57.00,Big,,0,0,0,,{\pos(540,330)\fs110\c&H00E5FF&\fad(200,200)\t(0,250,\fscx112\fscy112)\t(250,450,\fscx100\fscy100)}WHO'S NEXT?
+Dialogue: 0,0:00:00.00,0:00:57.00,Brand,,0,0,0,,{\pos(540,1830)\alpha&H40&}DINO-EXPLORERS · DINO FACTS #1
